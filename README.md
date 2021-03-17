@@ -1,1 +1,1 @@
-![README.md](/DOCS/README.md)
+(/DOCS/README.md)
