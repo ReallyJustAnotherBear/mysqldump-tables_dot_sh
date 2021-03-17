@@ -1,3 +1,4 @@
+```
 #!/bin/sh
 
 ##MANDATORY MYSQL CLIENT CONNECTION USER CONFIG
@@ -67,3 +68,4 @@ echo "$(ls ./ALLTABLES_OUT/*.sql|wc -l) tables dumped"
 
 echo "done!"
 
+```
