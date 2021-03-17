@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ##MANDATORY MYSQL CLIENT CONNECTION USER CONFIG
-##example  Using a mythtv servers db 'mythconverg', with host ip = 192.168.1.162
+##example.  Using a mythtv servers db 'mythconverg', with host ip = 192.168.1.162
 
 USER=mythtv
 PASSWORD=mythtv
