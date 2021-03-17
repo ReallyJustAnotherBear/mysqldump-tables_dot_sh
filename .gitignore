@@ -1,9 +1,10 @@
 /*
 /*/
 *.png
+DOCS/
 PNGS/
 !PNGS/placeholder
 !/.gitignore
 !/LICENSE
-!/DOC/README.md
+!/DOCS/README.md
 !/mysqldump-tables.sh
