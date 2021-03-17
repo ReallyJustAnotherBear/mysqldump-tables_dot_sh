@@ -2,7 +2,6 @@
 /*/
 *.png
 PNGS/
-!README.md
 !PNGS/placeholder
 !/.gitignore
 !/LICENSE
