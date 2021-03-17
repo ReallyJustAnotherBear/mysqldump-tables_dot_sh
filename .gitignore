@@ -1,0 +1,9 @@
+/*
+/*/
+*.png
+PNGS/
+!PNGS/placeholder
+!/.gitignore
+!/LICENSE
+!/DOC/
+!/mysqldump-tables.sh
