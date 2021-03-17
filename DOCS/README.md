@@ -1,1 +1,1 @@
-![README.md]../mysqldump-tables.sh
+![README.md](../mysqldump-tables.sh)
